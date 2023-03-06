@@ -12,7 +12,9 @@ Descargar la data:
 
 # Instalación de requerimientos
 
-2. Asegurarse de usar Python 3
+1. Asegurarse de usar Python 3
+2. Instalar las liberias necesarias que se mencionan en el jupyper notebook (pip install "nombre_de_la_libreria" en el terminal)
+
   
 
 
