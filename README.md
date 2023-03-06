@@ -8,10 +8,10 @@ inmobiliarias, y contienen información sobre propiedades en la región "Bernand
 Descargar la data:
 
   - Clonar este repositorio en un ambiente local.
+  - Descargar el archivo CSV desde el archivo comprimido "base_prueba" y guardarlo en un directorio de fácil acceso.
 
 # Instalación de requerimientos
 
-1. Usar pip install -r requerimientos.txt.
 2. Asegurarse de usar Python 3
   
 
